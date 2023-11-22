@@ -1,7 +1,6 @@
 # Projeto-integrador
 Repositório para a disciplina de Projeto Integrador
 
-
 ## Introdução
 
 Este projeto visa comparar algoritmos de análise de vidros em cenas de crime, utilizando um dataset obtido do repositório UCI. O dataset inclui informações sobre a composição química de diferentes tipos de vidros e suas classes correspondentes.
