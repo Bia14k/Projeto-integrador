@@ -52,10 +52,7 @@ O dataset foi retirado do repositório UCI e contém as seguintes colunas:
    - Identificação de padrões e inconsistências.
    - Sugestões para aprimoramentos e direções futuras.
 
-Link para baixar o dataset: https://archive.ics.uci.edu/dataset/42/glass+identification
-**Referências:**
-- Dataset UCI: [link para o dataset](link_para_o_dataset)
-- Outras referências relevantes.
 
-**Licença:**
-Este projeto é disponibilizado sob a licença [nome_da_licenca]. Consulte o arquivo LICENSE.md para obter mais detalhes.
+**Referências:**
+
+Link para baixar o dataset: https://archive.ics.uci.edu/dataset/42/glass+identification
